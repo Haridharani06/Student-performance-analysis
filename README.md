@@ -1,2 +1,13 @@
-# Student-performance-analysis
-A Python project that analyzes student performance by calculating total, average, and cutoff marks with data visualization.
+Student Marks Analysis
+
+-This project analyzes student data using Python.
+
+Features
+- Total & Average calculation
+- Cutoff calculation
+- Data visualization using Matplotlib
+
+Technologies Used
+- Python
+- Pandas
+- Matplotlib
